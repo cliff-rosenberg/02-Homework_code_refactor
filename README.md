@@ -4,4 +4,4 @@ The task given was to refactor some website code so that the example website cod
 
 The example site looks like this:
 
-![Webpage Example](../assets/example_page/01-thml-css-git-homework-demo.png?raw=true)
+![Webpage Example](https://github.com/cliff-rosenberg/02-Homework_code_refactor/blob/master/assets/example_page/01-html-css-git-homework-demo.png?raw=true)
